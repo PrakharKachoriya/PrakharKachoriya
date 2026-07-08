@@ -14,6 +14,7 @@ Currently working at **LeadSquared**, automating deployments, managing Kubernete
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![k9s](https://img.shields.io/badge/k9s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Karpenter](https://img.shields.io/badge/Karpenter-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 **Infrastructure as Code**
 
