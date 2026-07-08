@@ -85,10 +85,5 @@ Currently working at **LeadSquared**, automating deployments, managing Kubernete
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrakharKachoriya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PrakharKachoriya&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=PrakharKachoriya&style=flat-square&color=blue" />
 </p>
