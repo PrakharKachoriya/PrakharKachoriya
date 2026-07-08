@@ -23,6 +23,7 @@ Currently working at **LeadSquared**, automating deployments, managing Kubernete
 **Cloud & CI/CD**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=flat-square&logo=teamcity&logoColor=white)
@@ -70,6 +71,10 @@ Currently working at **LeadSquared**, automating deployments, managing Kubernete
 - **[k8s-revisited](https://github.com/PrakharKachoriya/k8s-revisited)** — Kubernetes deep dive notes and manifests
 
 ---
+
+### Certifications
+
+![AZ-104](https://img.shields.io/badge/AZ--104-Microsoft_Azure_Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ### Currently
 
