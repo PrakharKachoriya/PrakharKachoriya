@@ -1,91 +1,171 @@
-# Hey, I'm Prakhar
+<div align="center">
 
-DevOps Engineer based in India. I build and break infrastructure for a living.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey%2C+I'm+Prakhar+%F0%9F%91%8B;DevOps+Engineer+%7C+Cloud+Architect;I+build+and+break+infrastructure" alt="Typing SVG" />
 
-Currently working at **LeadSquared**, automating deployments, managing Kubernetes clusters, and keeping systems running at scale.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prakharkachoriya)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakharkachoriya@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrakharKachoriya)
+
+</div>
 
 ---
 
-### What I Work With
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" />
+
+### About Me
+
+- Working at **LeadSquared** — automating deployments, managing Kubernetes clusters, keeping systems alive at scale
+
+- **AZ-104** certified Microsoft Azure Administrator
+
+- Preparing for **CKA** (Certified Kubernetes Administrator)
+
+- Running a **homelab** — Ubuntu Server, Docker, full media stack, PLG monitoring, GitOps
+
+- Building with **Claude Code** & **Gemini CLI**
+
+<br clear="both"/>
+
+---
+
+### Tech Stack
+
+<div align="center">
 
 **Containers & Orchestration**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![k9s](https://img.shields.io/badge/k9s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Karpenter](https://img.shields.io/badge/Karpenter-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker,kubernetes" /></a>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/k9s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Karpenter-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
 
 **Infrastructure as Code**
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=terraform,ansible" /></a>
+</p>
 
 **Cloud & CI/CD**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=flat-square&logo=teamcity&logoColor=white)
-![Argo Workflows](https://img.shields.io/badge/Argo_Workflows-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=aws,azure,githubactions,jenkins" /></a>
+  <img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+</p>
 
 **Monitoring & Observability**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white)
-![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=flat-square&logo=newrelic&logoColor=white)
-![Coralogix](https://img.shields.io/badge/Coralogix-6B4FBB?style=flat-square&logo=coralogix&logoColor=white)
-![Fluent Bit](https://img.shields.io/badge/Fluent_Bit-49BDA5?style=flat-square&logo=fluentbit&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" /></a>
+  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/New_Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coralogix-6B4FBB?style=for-the-badge&logo=coralogix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fluent_Bit-49BDA5?style=for-the-badge&logo=fluentbit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
+</p>
 
 **Databases**
 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=redis,mongodb,postgres" /></a>
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
+</p>
 
 **Languages & Scripting**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,go,bash" /></a>
+</p>
 
 **OS & Tools**
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux,ubuntu,git,nginx,vscode" /></a>
+</p>
+
+</div>
 
 ---
 
-### Projects
+### Featured Projects
 
-- **[LocalCloud](https://github.com/PrakharKachoriya/LocalCloud)** — Mini AWS platform with 22 services (EC2, Lambda, S3, RDS, IAM, DynamoDB, Step Functions + more). Docker + FastAPI.
-- **[CloudForge-EKS](https://github.com/PrakharKachoriya/CloudForge-EKS)** — EKS infrastructure automation
-- **[TerraKubeOrchestrator](https://github.com/PrakharKachoriya/TerraKubeOrchestrator)** — Terraform + Kubernetes orchestration
-- **[k8s-revisited](https://github.com/PrakharKachoriya/k8s-revisited)** — Kubernetes deep dive notes and manifests
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">LocalCloud</h3>
+<p align="center">
+  <a href="https://github.com/PrakharKachoriya/LocalCloud">
+    <img src="https://img.shields.io/badge/Mini_AWS_Platform-22_Services-6366F1?style=for-the-badge" />
+  </a>
+</p>
+<p align="center">EC2, Lambda, S3, RDS, IAM, DynamoDB, Step Functions & more. Docker + FastAPI.</p>
+
+</td>
+<td width="50%">
+
+<h3 align="center">CloudForge-EKS</h3>
+<p align="center">
+  <a href="https://github.com/PrakharKachoriya/CloudForge-EKS">
+    <img src="https://img.shields.io/badge/EKS-Infrastructure_Automation-FF9900?style=for-the-badge" />
+  </a>
+</p>
+<p align="center">Production-grade EKS cluster provisioning and management.</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3 align="center">TerraKubeOrchestrator</h3>
+<p align="center">
+  <a href="https://github.com/PrakharKachoriya/TerraKubeOrchestrator">
+    <img src="https://img.shields.io/badge/Terraform-+_Kubernetes-7B42BC?style=for-the-badge" />
+  </a>
+</p>
+<p align="center">End-to-end infrastructure orchestration with Terraform & Kubernetes.</p>
+
+</td>
+<td width="50%">
+
+<h3 align="center">k8s-revisited</h3>
+<p align="center">
+  <a href="https://github.com/PrakharKachoriya/k8s-revisited">
+    <img src="https://img.shields.io/badge/Kubernetes-Deep_Dive-326CE5?style=for-the-badge" />
+  </a>
+</p>
+<p align="center">Comprehensive Kubernetes notes, manifests, and hands-on labs.</p>
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
 ### Certifications
 
-![AZ-104](https://img.shields.io/badge/AZ--104-Microsoft_Azure_Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+<div align="center">
 
-### Currently
+<img src="https://img.shields.io/badge/AZ--104-Microsoft_Azure_Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/CKA-In_Progress-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 
-- Preparing for **CKA** (Certified Kubernetes Administrator)
-- Running a **homelab** — Ubuntu Server, Docker, full media stack, PLG monitoring, GitOps
-- Building with **Claude Code** and **Gemini CLI**
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrakharKachoriya&style=flat-square&color=blue" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrakharKachoriya&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrakharKachoriya&style=for-the-badge&color=6366F1" />
+</div>
